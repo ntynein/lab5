@@ -24,3 +24,5 @@ double calculateY(double x, int n) {
 
     return y;
 }
+// updated for lab 5
+
